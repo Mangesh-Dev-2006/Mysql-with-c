@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C and C\u002B\u002B Projects\\mysqlwithc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D33F95-E9F0-4D6E-B4A4-6BD25C1997D6}|mysqlwithc\\mysqlwithc.vcxproj|D:\\C and C\u002B\u002B Projects\\mysqlwithc\\mysqlwithc\\mysqlwithc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82D33F95-E9F0-4D6E-B4A4-6BD25C1997D6}|mysqlwithc\\mysqlwithc.vcxproj|solutionrelative:mysqlwithc\\mysqlwithc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mysqlwithc.c",
+              "DocumentMoniker": "D:\\C and C\u002B\u002B Projects\\mysqlwithc\\mysqlwithc\\mysqlwithc.c",
+              "RelativeDocumentMoniker": "mysqlwithc\\mysqlwithc.c",
+              "ToolTip": "D:\\C and C\u002B\u002B Projects\\mysqlwithc\\mysqlwithc\\mysqlwithc.c",
+              "RelativeToolTip": "mysqlwithc\\mysqlwithc.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-13T14:09:50.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

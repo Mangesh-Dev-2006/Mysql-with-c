@@ -1,0 +1,136 @@
+﻿  mysqlwithc.c
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(34,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(34,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(34,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(34,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(86,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(86,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(86,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(86,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(90,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(90,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(90,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(90,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(92,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(92,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(92,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(92,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(94,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(94,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(94,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(94,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(96,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(96,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(96,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(96,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(202,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(202,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(202,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(202,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(206,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(206,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(206,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(206,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(208,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(208,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(208,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(208,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(210,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(210,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(210,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(210,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(212,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(212,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(212,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(212,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(321,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(321,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(321,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(321,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(325,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(325,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(325,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(325,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(327,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(327,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(327,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(327,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(329,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(329,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(329,11):
+  the missing variadic argument 2 is required by format string '%s'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(329,11):
+  this argument is used as a buffer size
+  
+D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(331,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(331,11):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(331,11):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\C and C++ Projects\mysqlwithc\mysqlwithc\mysqlwithc.c(331,11):
+  this argument is used as a buffer size
+  
+     Creating library D:\C and C++ Projects\mysqlwithc\x64\Release\mysqlwithc.lib and object D:\C and C++ Projects\mysqlwithc\x64\Release\mysqlwithc.exp
+  Generating code
+  8 of 18 functions (44.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  mysqlwithc.vcxproj -> D:\C and C++ Projects\mysqlwithc\x64\Release\mysqlwithc.exe
